@@ -8,3 +8,4 @@ comment capturer une image sur un ecran
 # sans oublier de charger dans le head les ficher 
 <script type="text/javascript" src="js/html2canvas.js"></script>
 <script type="text/javascript" src="js/jquery.plugin.html2canvas.js"></script>
+##
