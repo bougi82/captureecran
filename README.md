@@ -1,5 +1,5 @@
 # captureecran
-comment capturer une image sur un écran
+comment capturer une image sur un écran // screen d'un  bout d'ecran 
 # donner un id a la form 
 <form  id "myform">
 # placer une div de dans 
